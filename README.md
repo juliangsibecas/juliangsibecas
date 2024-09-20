@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [Rather Labs](https://www.ratherlabs.com/).
 - 🌱 I’m currently learning Web3 and Solidity.
 
-- ⚡ Fun fact: **I have a pretty nerd and hacker [setup](https://github.com/juliangsibecas/dotfiles), coding with a split keyboard using vim :)**
+- ⚡ Fun fact: I have a pretty nerd and hacker [setup](https://github.com/juliangsibecas/dotfiles), coding with a split keyboard using vim :)
 
 ### Stack
 <p>
